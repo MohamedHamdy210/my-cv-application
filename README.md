@@ -1,8 +1,33 @@
-# React + Vite
+# 📄 CV Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive web application that enables users to create, customize, and download professional resumes.  
+The app provides an intuitive interface for entering personal and professional details, dynamically generating a formatted CV in real-time.
 
-Currently, two official plugins are available:
+👉 **Live Demo:** [https://my-cv-application.vercel.app/]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## ⚙️ Tech Stack
+- React  
+- CSS  
+
+---
+
+## ✨ Features
+- 📝 **User-Friendly Form** – Collects essential details such as personal information, education, experience, and skills  
+- 👀 **Real-Time Preview** – Displays a live preview of the CV as users input data, ensuring accuracy and satisfaction  
+- 📄 **PDF Export** – Allows users to download their completed CVs in PDF format for easy sharing and printing  
+- 📱 **Responsive Design** – Optimized for desktops, tablets, and smartphones  
+
+---
+
+## 🛠️ Setup & Installation
+```bash
+# Clone the repo
+git clone https://github.com/MohamedHamdy210/CV-Application.git
+
+# Install dependencies
+npm install
+
+# Run locally
+npm run dev
